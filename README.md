@@ -11,3 +11,4 @@ Encoders and decoders are widely recognized for their efficacy in generating tra
 4. Image denoising and presentation of results
 
 ## Results
+<img width="461" alt="image" src="https://github.com/user-attachments/assets/edcdd842-9f57-4a56-b915-7c21d03036cb">
